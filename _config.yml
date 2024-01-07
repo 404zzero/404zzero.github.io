@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "Spain"
-title                    : "404_zzero.io"
+title                    : "404zzero.github.io"
 title_separator          : "-"
 name                     : "404_zzero"
 description              : "cybersecurity and ethical hacking"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Snowscan"
+  name             : "404_zzero"
   avatar           : "/assets/images/avatar.png"
   bio              : "aspiring pentester and Red team, programmer and artist"
   location         : "Spain"
@@ -117,7 +117,7 @@ author:
   github           : "404zzero"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          :
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -126,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "snowscan"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
