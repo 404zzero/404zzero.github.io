@@ -5,7 +5,7 @@ excerpt:
 date: 2024-01-07
 classes: wide
 header:
-  teaser: /assets/images/codigos_python/portada_actu.png
+  teaser: /assets/images/comisionesobreras/Logotipo_de_Comisiones_Obreras.svg.png
   teaser_home_page: true
 categories:
   - hacking
