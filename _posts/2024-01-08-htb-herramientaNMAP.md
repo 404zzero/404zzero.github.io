@@ -2,7 +2,7 @@
 layout: single
 title: Nmap bash automated tool
 excerpt: "tool that allows scanning in different ways with the nmap tool in bash"
-date: 2014-01-08
+date: 2024-01-08
 classes: wide
 header:
   teaser: /assets/images/Bash_Logo_Colored.svg.png
