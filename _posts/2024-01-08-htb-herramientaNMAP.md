@@ -1,6 +1,6 @@
 ---
 layout: single
-title: nmap bash automated tool
+title: Nmap bash automated tool
 excerpt: "tool that allows scanning in different ways with the nmap tool in bash"
 date: 2014-01-08
 classes: wide
