@@ -5,7 +5,7 @@ excerpt:
 date: 2024-01-12
 classes: wide
 header:
-  teaser: /assets/images/codigos_python/portada_actu.png
+  teaser: /assets/images/server/party-1024x576.png
   teaser_home_page: true
 categories:
   - hacking
