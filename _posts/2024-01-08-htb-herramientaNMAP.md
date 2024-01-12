@@ -6,6 +6,7 @@ date: 2024-01-08
 classes: wide
 header:
   teaser: /assets/images/Bash_Logo_Colored.svg.png
+  teaser_home_page: true
 categories:
   - bash
   - hacking
