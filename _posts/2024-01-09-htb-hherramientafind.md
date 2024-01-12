@@ -5,7 +5,7 @@ excerpt:
 date: 2024-01-09
 classes: wide
 header:
-  teaser: 
+  teaser: /assets/images/Bash_Logo_Colored.svg.png
   teaser_home_page: true
 categories:
   - bash
