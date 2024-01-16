@@ -5,7 +5,7 @@ excerpt:
 date: 2024-01-16
 classes: wide
 header:
-  teaser: /assets/images/archivoslinux/cecc52dc8d31b173d7280f25149b3874.png
+  teaser: /assets/images/archivoslinux/kali_linux.jpg
   teaser_home_page: true
 categories:
   - hacking
