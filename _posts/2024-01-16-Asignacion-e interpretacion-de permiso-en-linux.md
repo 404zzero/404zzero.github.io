@@ -19,7 +19,7 @@ tags:
 buenas. hoy vengo a explicar la asignacion e interpretacion de permisos en lix. 
 voy a enseñaros que son es D RMX y todas las cosas rara que aparecen.
 
-![](/assets/images/archivoslinux/captura.png)
+![](/assets/images/archivoslinux/Captura.PNG)
 
 aqui tenemos un directorio llmando "Pepito", y vemos que pone "drwxr-xr-x"
 
@@ -43,7 +43,7 @@ r=read
 w=writing
 x=execut
 
-![](/assets/images/archivoslinux/4.png)
+![](/assets/images/archivoslinux/4.PNG)
 
 vale y que quiere decir esto, pues que si hay una "r" puede leer por lo que puede hacer un cat por ejemplo, si hay una "w" puede editar el archivo o crear archivos en un directorio y si hay una "x" quiere decir que podemos o ejecutar el archivo o acader al directorio.
 
